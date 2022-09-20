@@ -1,0 +1,6 @@
+{
+  "name": "HaxeToolchain",
+  "tree": {
+    "$path": "out"
+  }
+}

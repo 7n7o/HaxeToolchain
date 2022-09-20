@@ -1,0 +1,4 @@
+*.rbxm
+*/*.rbxm
+haxe
+.vscode
